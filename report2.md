@@ -7,15 +7,14 @@
 На тестирование затрачено: 30 мин
 
 В результате тестирования выявлены следующие дефекты:
-* <a href=https://github.com/Rostiks52/Java-1.1/issues/1>Невалидный ключ №1</a>
-* https://github.com/Rostiks52/Java-1.1/issues/2
-* https://github.com/Rostiks52/Java-1.1/issues/3
+* <a href=https://github.com/Rostiks52/Java-1.1/issues/1>Невалидный ключ № 1</a>
+* <a href=https://github.com/Rostiks52/Java-1.1/issues/2>Невалидный ключ № 2</a>
+* <a href=https://github.com/Rostiks52/Java-1.1/issues/3>Невалидный ключ № 3</a>
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Руководство использования KeyValidator 
-https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+* <a href=https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md>Руководство использования KeyValidator</a>
 
 
 В качестве тестовых данных использовались данные из руководства использования KeyValidator,
