@@ -7,7 +7,7 @@
 На тестирование затрачено: 30 мин
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Rostiks52/Java-1.1/issues/1
+* <a href=https://github.com/Rostiks52/Java-1.1/issues/1>Невалидный ключ №1</a>
 * https://github.com/Rostiks52/Java-1.1/issues/2
 * https://github.com/Rostiks52/Java-1.1/issues/3
 
